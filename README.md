@@ -1,2 +1,2 @@
 # hello-world
-In the editor, write a bit about yourself.
+learning to code on your own is very hard

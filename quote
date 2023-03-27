@@ -1,1 +1,5 @@
+message_1 = "Albert Einstein once said,"
+message_2 = "\n\t'A person who never made a mistake never tried anything new'"
+print(message_1)
+print(message_2)
 
